@@ -4,7 +4,7 @@ Michael Mommert, University of St. Gallen, 2023
 
 This respository contains the resources for the course "Label-efficient Deep Learning in Remote Sensing" of the [IADF School 2023](https://iadf-school.org/). 
 
-**Presentation slides** are available [here](https://github.com/mommermi/iadfschool2023_efficientlearning/blob/main/efficient_learning_mommert.pdf?raw=1) and a compressed slide deck is available [here](https://github.com/mommermi/iadfschool2023_efficientlearning/blob/main/efficient_learning_mommert.pdf?raw=1).
+**Presentation slides** are available [here](https://github.com/mommermi/iadfschool2023_efficientlearning/blob/main/efficient_learning_mommert.pdf?raw=1) and a compressed slide deck is available [here](https://github.com/mommermi/iadfschool2023_efficientlearning/blob/main/efficient_learning_mommert_compressed.pdf?raw=1).
 
 **Code** discussed in this course is available in the form of a Jupyter Notebook in this repository. We will use this Notebook in the cloud during the course. If you have a Google account, we recommend that you launch the Notebook with Colab, if not, feel free to use the Binder launcher below:
 
